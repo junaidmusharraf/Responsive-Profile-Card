@@ -14,7 +14,7 @@ This project features a responsive profile card designed to be visually appealin
 - CSS3: For styling and creating responsive layouts.
 - Flexbox & Grid: For layout design.
 - Media Queries: To ensure responsiveness across different devices.
-## How to Install
+## How to Use
 
 1- Clone the repository:
 
