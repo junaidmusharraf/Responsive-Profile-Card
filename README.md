@@ -30,5 +30,4 @@ cd responsive-profile-card
 - HTML: Modify the index.html file to update user details and structure.
 - CSS: Customize the styles.css file to change the design and layout.
 ## License
-
 This project is licensed under the MIT License. See the LICENSE file for details.
